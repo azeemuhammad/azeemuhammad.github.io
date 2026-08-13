@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://azeemuhammad.github.io/sitemap.xml
